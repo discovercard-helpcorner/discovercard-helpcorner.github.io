@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://discovercard-helpcorner.github.io/sitemap.xml
